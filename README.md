@@ -26,4 +26,4 @@ This is a basic version of this viewer and you can reuse this to add more bells 
 
 
 ## This free consulting project is based on the following issue: 
-https://github.com/aspose-free-consulting/projects/issues/3
+[I want to create/build an Iframe to display Powerpoint Presentation from sharepoint to be rendered on the web portal that has a reference to the PPT on sharepoint](https://github.com/aspose-free-consulting/projects/issues/3)
