@@ -26,4 +26,4 @@ This is a basic version of this viewer and you can reuse this to add more bells 
 
 
 ## This free consulting project is based on the following issue: 
-aspose-free-consulting/projects#3
+https://github.com/aspose-free-consulting/projects/issues/3
