@@ -1,8 +1,7 @@
 # Web Viewer for PowerPoint Presentation
-
-This free consulting project uses Aspose.Slides to create a web viewer to show powerpoint slides on the web page.
-You can reuse this code to embed PowerPoint slides inside a web page to view them as an online presentation viewer. 
-This is a basic version of this viewer and you can reuse this to add more bells and whistles. 
+This [free consulting project](https://aspose-free-consulting.github.io/) uses [Aspose.Slides](https://products.aspose.com/slides) to [create a web viewer to show powerpoint slides on the web page](https://docs.aspose.com/display/slidesnet/Creating%2C+Saving+and+Converting+a+Presentation).
+You can reuse this code to embed [PowerPoint slides](https://blog.aspose.com/category/slides/) inside a web page to view them as an online presentation viewer. 
+This is a basic version of this viewer and you can reuse this to add more bells and whistles.
 
 
 ## Screenshots
