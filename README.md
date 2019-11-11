@@ -32,6 +32,17 @@ The application will present an online viewer for the presentation
 
 ![7_FileViewer_Navigate_Slides](https://user-images.githubusercontent.com/1214951/62836621-70730c80-bc7e-11e9-8f50-5ab8c2368991.png)
 
+You can also extend this project with additional features as needed:
+
+* [Convert Presentation to HTML]
+* [Convert Presentation to PDF]
+* [Convert Presentation to TIFF] 
+* [Add Charts to Presentation]
+* [Add Tables to Presentation]
+
+If you find any questions or need help, please ask in [Aspose.Slides forums]. You may also keep yourself updated with latest happenings with this powerpoint API in [Aspose.Slides blog](https://blog.aspose.com/). 
+
+
 ## Interested in Aspose free consulting project?
 [If you are also interested in a free consulting project by Aspose team then please view details on this page](https://aspose-free-consulting.github.io/)
 
