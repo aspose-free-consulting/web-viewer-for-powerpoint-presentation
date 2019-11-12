@@ -40,7 +40,7 @@ You can also extend this project with additional features as needed:
 * [Add Charts to Presentation](https://docs.aspose.com/display/slidesnet/Adding%2C+Formatting+and+Manipulating+Charts)
 * [Add Tables to Presentation](https://docs.aspose.com/display/slidesnet/Adding%2C+Updating+and+Manipulating+Tables)
 
-If you find any questions or need help, please ask in [Aspose.Slides forums](https://blog.aspose.com/category/slides/). You may also keep yourself updated with latest happenings with this powerpoint API in [Aspose.Slides blog](https://forum.aspose.com/c/slides). 
+If you find any questions or need help, please ask in [Aspose.Slides forums](https://forum.aspose.com/c/slides/). You may also keep yourself updated with latest happenings with this powerpoint API in [Aspose.Slides blog](https://blog.aspose.com/category/slides). 
 
 
 ## Interested in Aspose free consulting project?
