@@ -48,4 +48,4 @@ If you find any questions or need help, please ask in [Aspose.Slides forums](htt
 
 
 ## This free consulting project is based on the following issue: 
-[I want to create/build an Iframe to display Powerpoint Presentation from sharepoint to be rendered on the web portal that has a reference to the PPT on sharepoint](https://github.com/aspose-free-consulting/projects/issues/3)
+I want to create/build an Iframe to display Powerpoint Presentation from sharepoint to be rendered on the web portal that has a reference to the PPT on sharepoint: github.com/aspose-free-consulting/projects/issues/3
